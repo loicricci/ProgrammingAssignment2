@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## 1.  set the value of the Matrix
 ## 2.  get the value of the Matrix
 ## 3.  set the value of the Inverse
